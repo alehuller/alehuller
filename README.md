@@ -1,7 +1,7 @@
 ### Olá amigo! Me chamo Alejandro! 👋
 
 - 🔭 Atualmente estou aprimorando minhas habilidades na linguagem Java e em coisas diretamente ligadas, como o Spring Boot!
-  Também estou em busca de um emprego como programador back-end Java e relacionados.
+  Também estou em busca de um emprego como programador Full Stack e relacionados.
 - 📩 Contate-me no email: ale_huller@hotmail.com
 - 💼 Pode me encontrar no LinkedIn: https://www.linkedin.com/in/alejandro-huller-44171225a/
 - 👨‍💻 Meu portifólio online: https://alehuller.github.io
