@@ -52,14 +52,17 @@ Busco oportunidades como programador Full Stack ou em √°reas relacionadas. Tamb√
 
 <div>
   <a href="https://www.linkedin.com/in/alejandro-huller-44171225a/">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=alehuller&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehuller&layout=compact&langs_count=7&theme=holi"/>
-  <img src="https://streak-stats.demolab.com?user=alehuller&locale=pt-br&mode=weekly&theme=holi-theme&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="175" alt="streak graph"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alehuller&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehuller&layout=compact&langs_count=7&theme=holi"/>
 </div>
+    
+  <br>
   
 <div align="center">
 
   [![Alejandro Huller's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alehuller&bg_color=050614&color=ffffff&line=58a6ff&point=58a6ff&area=true&area_color=0d1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <img src="https://streak-stats.demolab.com?user=alehuller&locale=pt-br&mode=weekly&theme=holi-theme&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="170" alt="streak graph"/>
 
 </div>
 
