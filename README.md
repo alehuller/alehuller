@@ -10,7 +10,7 @@ Sou Desenvolvedor Full Stack com foco em Backend. Trabalho principalmente com Ja
 
 Busco oportunidades como programador Full Stack ou em áreas relacionadas. Também atuo como freelancer.
 
-## Sobre mim
+## 🧑‍💻 Sobre mim
 
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pelo SENAC
 - 💻 Estudando e praticando desenvolvimento Full Stack com Java, Spring Boot, React e SQL
@@ -22,7 +22,7 @@ Busco oportunidades como programador Full Stack ou em áreas relacionadas. Tamb�
 <table>
   <tr>
     <td valign="top">
-      <strong>Linguagens</strong><br>
+      <strong>🔣 Linguagens</strong><br>
       <img src="https://skillicons.dev/icons?i=java,js,html,css,python" />
     </td>
     <td valign="top">
