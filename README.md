@@ -52,9 +52,9 @@ Busco oportunidades como programador Full Stack ou em √°reas relacionadas. Tamb√
 
 <div>
   <a href="https://www.linkedin.com/in/alejandro-huller-44171225a/">
-  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=alehuller&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehuller&layout=compact&langs_count=7&theme=holi"/>
-  <img src="https://streak-stats.demolab.com?user=alehuller&locale=pt-br&mode=weekly&theme=holi-theme&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="148" alt="streak graph"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=alehuller&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehuller&layout=compact&langs_count=7&theme=holi"/>
+  <img src="https://streak-stats.demolab.com?user=alehuller&locale=pt-br&mode=weekly&theme=holi-theme&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="145" alt="streak graph"/>
 </div>
   
 <div align="center">
